@@ -33,4 +33,3 @@ MakeYear <- function(make, year) {
 
 # What was the most efficient honda model of 1995?
 MakeYear('Honda', 1995)
-
